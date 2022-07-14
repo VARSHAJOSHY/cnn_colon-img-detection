@@ -1,10 +1,10 @@
 # cnn_colon-img-detection
 Train a deep neural network which can take a 32x32 image with a cell nuclei and classify it into one of the following types.
 
-Normal epithelial cells (shown orange).
-Cancer epithelial cells (shown in red).
-Immune leukocyte cells (shown in green).
-Connective fibroblast cells (shown in blue).
+	1.Normal epithelial cells (shown orange).
+	2.Cancer epithelial cells (shown in red).
+	3.Immune leukocyte cells (shown in green).
+	4.Connective fibroblast cells (shown in blue).
 
 Training set of nuclei images (train.zip) with images given in suitable subdirectories with the label names. 
 It also contains test archive (test.zip) which has similar 32x32 images of unlabelled cell nuclei.
