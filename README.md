@@ -24,10 +24,12 @@ Steps followed:
 Plot out loss / accuracy curves to ensure you are not overfitting the training data set.
 
 File descriptions
+
 	1.train.zip - zip file containing the training images in subdirectories with the relevant labels
 	2.test.zip - zip file containing the test images
 	3.example.csv - an example submission file in the correct format
 
 Data fields
+
 	Id - an anonymous id unique to a given image
 	Type - the type of cell at the middle of the image
